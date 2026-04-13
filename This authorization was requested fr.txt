@@ -1,17 +1,7 @@
 This authorization was requested from Dakar 41.214.54.138 on April 12th, 2026 at 23:32 (GMT)
 Make sure you trust this device as it will get access to your account.
 
-
-
 ++++++++++++++++++++++++++++++++++bkdkmcdim12avr2026++++++++++++++++++++++++++++++++++++
-
-
-
-
-
-
-
-
 
 ```text id="okpush"
 Writing objects: 100%
